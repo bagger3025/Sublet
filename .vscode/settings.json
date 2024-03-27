@@ -10,5 +10,12 @@
   "prettier.endOfLine": "lf",
   "[javascript]": {
     "editor.defaultFormatter": "vscode.typescript-language-features"
-  }
+  },
+  "workbench.colorTheme": "Default Dark+",
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.enumMemberValues.enabled": true
 }
