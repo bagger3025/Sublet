@@ -35,9 +35,7 @@
     "codespaces": {
       "repositories": {
         "Sublet-K/ENV-backend": {
-          "permissions": {
-            "contents": "write"
-          }
+          "permissions": "write-all"
         }
       }
     }
