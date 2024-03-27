@@ -36,7 +36,7 @@
       "repositories": {
         "Sublet-K/ENV-backend": {
           "permissions": {
-            "contents": "read"
+            "contents": "write"
           }
         }
       }
