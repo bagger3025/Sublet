@@ -34,7 +34,7 @@
     },
     "codespaces": {
       "repositories": {
-        "Sublet-K/ENV-backend": {
+        "bagger3025/ENV-backend": {
           "permissions": "write-all"
         }
       }
