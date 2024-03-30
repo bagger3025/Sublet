@@ -34,7 +34,7 @@
     },
     "codespaces": {
       "repositories": {
-        "bagger3025/ENV-backend": {
+        "ENV-backend": {
           "permissions": "write-all"
         }
       }
